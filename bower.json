@@ -1,7 +1,7 @@
 {
-  "name": "jquery-center",
+  "name": "jquery-center-js",
   "version": "1.0.0",
-  "homepage": "https://github.com/mustafah/jquery.center",
+  "homepage": "https://github.com/bramski/jquery.center",
   "description": "A JQuery plugin help us to propotionally position a DOM element inside its parent or any other specified element.",
   "repository": {
     "type": "git",
